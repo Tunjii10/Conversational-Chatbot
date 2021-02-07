@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.tox
+
+
+# datafiles
+data/chatbot_nlp
+data/chatbot_nlp.zip
+
+
+# trained models 
+saved_model/
